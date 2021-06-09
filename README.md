@@ -1,5 +1,8 @@
-Oi, sou um programador novato
+Sou um programador em ascensão
 
-gosto de webservices 
-data science
-banco de dados
+Gosto de solucionar problemas em suas complexidades
+
+Interesses:
+  webservices 
+  data science
+  banco de dados
