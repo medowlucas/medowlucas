@@ -1,8 +1,4 @@
-Sou um programador em ascensão
-
-Gosto de solucionar problemas em suas complexidades
-
-Interesses:
-  webservices 
-  data science
-  banco de dados
+Hello, I'm a Full Stack Developer
+from Brazil
+Focus in:
+Angular, Java Spring, Webservices and Database
