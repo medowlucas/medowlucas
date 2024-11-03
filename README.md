@@ -2,7 +2,7 @@ Olá!👋
 Eu sou Lucas Guilha, Desenvolvedor de software.
 - 🚀Formado em Análise e desenvolvimento de sistemas.
 - 🚀Pós graduado em Arquitetura de Software em Java.
-- 🌱Atualmente estou estudando java com springboot + react com material-ui.
+- 🌱Atualmente Trabalho como Desenvolvedor Fullstasck Node, Php e React
 <div>
   <a href="https://github.com/medowlucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medowlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
