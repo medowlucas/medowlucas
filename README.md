@@ -5,7 +5,7 @@ Eu sou Lucas Guilha, Desenvolvedor de software.
 - 🌱Atualmente Trabalho como Desenvolvedor Fullstasck Node, Php e React
 <div>
   <a href="https://github.com/medowlucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medowlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medowlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medowlucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
